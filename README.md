@@ -1,4 +1,4 @@
-### More to come. Just need time ^^
+### More to come. ^^
 
 <!--
 **Machatronics/machatronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
